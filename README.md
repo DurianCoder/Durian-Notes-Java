@@ -18,6 +18,7 @@
 
 ## Java
 ### 0x01、Java基础
+[Object的wait、notify和notifyAll方法]()
 ### 0x02、JVM分析与调优
 
 ## Juc并发源码分析
