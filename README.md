@@ -18,7 +18,7 @@
 
 ## Java
 ### 0x01、Java基础
-[Object的wait、notify和notifyAll方法]()
+- [Object的wait、notify和notifyAll方法](https://github.com/DurianCoder/Durian-Notes-Java/blob/master/J2se/Object%E7%9A%84wait%E3%80%81notify%E5%92%8CnotifyAll%E6%96%B9%E6%B3%95.md)
 ### 0x02、JVM分析与调优
 
 ## Juc并发源码分析
